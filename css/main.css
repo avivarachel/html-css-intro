@@ -58,4 +58,37 @@ table td {
     text-align: center;
 }
 
+footer {
+    background-color: black;
+    color:white;
+    overflow:hidden;
+}
+
+footer a {
+    color: tomato;
+    text-decoration: none;
+}
+
+.aside {
+    float: left;
+    width: 50%;
+}
+
+.partners {
+    float: right;
+    width: 50%;
+}
+
+.partners li {
+    display: inline-block;
+}
+
+.partners ul {
+    list-style: none;
+}
+
+.partners img {
+    width: 100px;
+}
+
         

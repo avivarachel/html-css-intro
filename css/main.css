@@ -41,4 +41,21 @@ nav li {
 nav a {
     text-decoration: none;
 }
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid grey;
+}
+
+table th {
+    padding: 6px 13px;
+    border: 1px solid grey;
+}
+table td {
+    padding: 6px 13px;
+    border: 1px solid grey;
+    text-align: center;
+}
+
         
